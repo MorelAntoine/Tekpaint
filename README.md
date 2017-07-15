@@ -33,4 +33,4 @@ Made By
 
 > Maxime PILLON
 
-> YAN POINSSOT
+> Yan POINSSOT
