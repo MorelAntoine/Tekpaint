@@ -2,6 +2,8 @@
 
 Paint like in C with LibLapin Library (SMFL overlay)
 
+(screenshots available in screenshots/ folder)
+
     Dev period: 10 january 2016 - 26 january 2016
 
 Functionalities
